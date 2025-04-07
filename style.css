@@ -1,0 +1,49 @@
+html {
+    scroll-padding-top: 80px;
+  }
+
+body {
+    font-family: 'Times New Roman', sans-serif;
+  }
+
+  .menu-section {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px 20px;
+    margin-top: 80px;
+  }
+
+
+  .section-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+  }
+
+  ul.menu-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  ul.menu-list li {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+  }
+
+  .info-extra {
+    font-style: italic;
+    margin-top: 30px;
+  }
+
+  footer {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 30px 10px 10px 10px;
+    font-size: 14px;
+  }
